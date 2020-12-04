@@ -1,0 +1,6 @@
+{
+    "name": "ons-rocketmqwriter",
+    "class": "com.alibaba.datax.plugin.writer.ons_rocketmqwriter.ONS_RocketMQWriter",
+    "description": "适用于: 阿里云版RocketMQ",
+    "developer": "wenqi"
+}
