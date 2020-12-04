@@ -1,0 +1,15 @@
+{
+    "name": "ons-rocketmqwriter",
+    "parameter": {
+        "nameServer": "http://xxxxxx.aliyuncs.com:80",
+        "accessKey": "LTXXXXXCbPN",
+        "secretKey": "aSXXxxxSuw",
+        "topic": "topic_name",
+        "tags": "*",
+        "batchSize":1000,
+        "column": [
+            {"name": "id", "type": "string"},
+            {"name": "name", "type": "string"}
+        ]
+    }
+}
