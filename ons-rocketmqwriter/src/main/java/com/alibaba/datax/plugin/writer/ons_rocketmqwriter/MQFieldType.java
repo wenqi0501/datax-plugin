@@ -1,8 +1,6 @@
 package com.alibaba.datax.plugin.writer.ons_rocketmqwriter;
 
-/**
- * Created by xiongfeng.bxf on 17/3/1.
- */
+// TODO 待完善
 public enum MQFieldType {
     ID,
     STRING,
