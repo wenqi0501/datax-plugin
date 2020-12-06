@@ -1,8 +1,10 @@
+# 插件开发步骤
 1. 下载datax源码，下载地址：https://github.com/alibaba/DataX
 
 2. 按照已有插件的代码结构建立rocketmqwriter的代码目录如下：
 
    ![image-20201206132342266](/Users/wenqi/Library/Application Support/typora-user-images/image-20201206132342266.png)
+   
 
    package.xml：定义了插件具体的打包路径
 
